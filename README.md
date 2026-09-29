@@ -4,7 +4,7 @@ Public smart contract audit reports published by Soken. Each PDF covers the scop
 
 All reports are also listed at [soken.dev/audits](https://soken.dev/audits.html).
 
-## Reports (255)
+## Reports (257)
 
 | Report | Published |
 |---|---|
@@ -13,6 +13,7 @@ All reports are also listed at [soken.dev/audits](https://soken.dev/audits.html)
 | [APAD Soken Security Audit](https://github.com/Soken-LTD/smart-contract-audits/blob/main/APAD%20Soken%20Security%20Audit.pdf) | 2025-12-08 |
 | [Forton Security Audit_v2](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Forton%20Security%20Audit_v2.pdf) | 2025-10-01 |
 | [ORVN Soken Audit](https://github.com/Soken-LTD/smart-contract-audits/blob/main/ORVN%20Soken%20Audit.pdf) | 2025-09-23 |
+| [ANTTIME — Soken Audit](https://github.com/Soken-LTD/smart-contract-audits/blob/main/ANTTIME%20%E2%80%94%20Soken%20Audit.pdf) | 2025-07-25 |
 | [Promptale-Audit](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Promptale-Audit.pdf) | 2025-06-27 |
 | [Blue Snakes - SC Audit](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Blue%20Snakes%20-%20SC%20Audit.pdf) | 2025-05-12 |
 | [Soken_Manual_audit_Buttcoin](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Soken_Manual_audit_Buttcoin.pdf) | 2025-04-23 |
@@ -162,6 +163,7 @@ All reports are also listed at [soken.dev/audits](https://soken.dev/audits.html)
 | [Fair Trader Anti-Fraud Smart Contract Audit](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Fair%20Trader%20Anti-Fraud%20Smart%20Contract%20Audit.pdf) | 2021-12-08 |
 | [Lovely Inu Finance Standard Smart Contract Audit](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Lovely%20Inu%20Finance%20Standard%20Smart%20Contract%20Audit.pdf) | 2021-12-07 |
 | [Ijas Coin Standard Smart Contract Audit](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Ijas%20Coin%20Standard%20Smart%20Contract%20Audit.pdf) | 2021-12-06 |
+| [СamelToken Standard Smart Contract Audit](https://github.com/Soken-LTD/smart-contract-audits/blob/main/%D0%A1amelToken%20Standard%20Smart%20Contract%20Audit.pdf) | 2021-12-06 |
 | [Adshares Comprehensive Smart Contract Audit](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Adshares%20Comprehensive%20Smart%20Contract%20Audit.pdf) | 2021-12-03 |
 | [Shiboshi Standard Smart Contract Audit](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Shiboshi%20Standard%20Smart%20Contract%20Audit.pdf) | 2021-12-02 |
 | [Hellbound Standard Smart Contract Audit](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Hellbound%20Standard%20Smart%20Contract%20Audit.pdf) | 2021-12-02 |
