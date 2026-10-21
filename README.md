@@ -4,10 +4,12 @@ Public smart contract audit reports published by Soken. Each PDF covers the scop
 
 All reports are also listed at [soken.dev/audits](https://soken.dev/audits.html).
 
-## Reports (258)
+## Reports (260)
 
 | Report | Published |
 |---|---|
+| [Arvo Staking Security Review](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Arvo%20Staking%20Security%20Review.pdf) | 2026-10-21 |
+| [Arvo Application Security Review](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Arvo%20Application%20Security%20Review.pdf) | 2026-10-21 |
 | [GBLIN Protocol Security Review](https://github.com/Soken-LTD/smart-contract-audits/blob/main/GBLIN%20Protocol%20Security%20Review.pdf) | 2026-10-10 |
 | [Apyee_Security_Audit_v2.1.3](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Apyee_Security_Audit_v2.1.3.pdf) | 2026-07-13 |
 | [Wallitelli_Security_Audit](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Wallitelli_Security_Audit.pdf) | 2026-05-25 |
