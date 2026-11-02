@@ -4,10 +4,11 @@ Public smart contract audit reports published by Soken. Each PDF covers the scop
 
 All reports are also listed at [soken.dev/audits](https://soken.dev/audits.html).
 
-## Reports (260)
+## Reports (261)
 
 | Report | Published |
 |---|---|
+| [DREMT Token Program Security Review](https://github.com/Soken-LTD/smart-contract-audits/blob/main/DREMT%20Token%20Program%20Security%20Review.pdf) | 2026-11-02 |
 | [Arvo Staking Security Review](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Arvo%20Staking%20Security%20Review.pdf) | 2026-10-21 |
 | [Arvo Application Security Review](https://github.com/Soken-LTD/smart-contract-audits/blob/main/Arvo%20Application%20Security%20Review.pdf) | 2026-10-21 |
 | [GBLIN Protocol Security Review](https://github.com/Soken-LTD/smart-contract-audits/blob/main/GBLIN%20Protocol%20Security%20Review.pdf) | 2026-10-10 |
